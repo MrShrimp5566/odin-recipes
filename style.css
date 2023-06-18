@@ -1,0 +1,26 @@
+* {
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+body{
+    text-align: center;
+}
+.list {
+    text-align: left;
+    margin-left: 450px;
+}
+ul {
+    font-size: 20px;
+    list-style-type: square;
+}
+ul li a {
+    text-decoration: none;
+    color: white;
+}
+div {
+    background-color: red;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+p {
+
+}
